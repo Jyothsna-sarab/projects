@@ -44,8 +44,7 @@ Cluster iris flower species using unsupervised learning on sepal and petal dimen
 **Dataset**:\
 The Iris dataset containing sepal and petal length/width for three flower types.
 
-**Methodology**: - Feature scaling and normalization - Applied K-Means clustering - Used PCA for 2D visualization - Evaluated clusters using silhouette score and Elbow Method
-
+**Methodology**: - Feature scaling and normalization - Applied K-Means clustering 
 **Outcome**:\
 Iris species were successfully grouped into clusters, revealing distinct patterns based on flower measurements.
 
